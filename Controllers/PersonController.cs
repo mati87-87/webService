@@ -18,7 +18,7 @@ namespace WebAPI.Controllers
         // GET: api/Person/5
         public string Get(int id)
         {
-            string odpowiedz = String.Concat("value", id);
+            string odpowiedz = String.Concat("MOja Odpowiedz", id*10);
             return odpowiedz;
         }
 
