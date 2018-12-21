@@ -62,3 +62,6 @@ C:\Users\mateu\source\repos\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInp
 C:\Users\mateu\source\repos\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
 C:\Users\mateu\source\repos\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 C:\Users\mateu\source\repos\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\mateu\source\repos\WebAPI\WebAPI\bin\MySql.Data.dll
+C:\Users\mateu\source\repos\WebAPI\WebAPI\bin\Google.Protobuf.dll
+C:\Users\mateu\source\repos\WebAPI\WebAPI\bin\MySql.Data.xml
